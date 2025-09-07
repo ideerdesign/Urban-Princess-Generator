@@ -1,0 +1,12 @@
+{
+  "name": "urban-princess-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
